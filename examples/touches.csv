@@ -1,0 +1,33 @@
+Associated Deal ID,Interaction Date,utm_medium,utm_campaign,Landing Page
+D-1001,2026-01-05,organic,,/blog/inventory-forecasting
+D-1001,2026-01-22,cpc,q1-demo,/demo
+D-1001,2026-02-14,email,q1-nurture,/case-studies
+D-1002,2025-11-30,cpc,brand-2026,/pricing
+D-1002,2025-12-14,cpc,brand-2026,/pricing
+D-1002,2026-01-09,paid social,li-abm,/enterprise
+D-1002,2026-02-02,cpc,brand-2026,/demo
+D-1003,2026-01-11,organic,,/blog/seat-planning
+D-1003,2026-02-03,email,q1-nurture,/webinar
+D-1003,2026-03-19,cpc,q1-brand,/demo
+D-1004,2026-01-19,direct,,/
+D-1004,2026-01-25,organic,,/pricing
+D-1005,2026-02-10,email,q1-webinar,/webinar/scaling
+D-1005,2026-03-22,paid social,abm-tier1,/enterprise
+D-1005,2026-04-30,direct,,/pricing
+D-1006,2026-01-15,cpc,enterprise-2026,/enterprise
+D-1006,2026-02-20,email,enterprise-2026,/roi-calculator
+D-1006,2026-03-12,cpc,enterprise-2026,/demo
+D-1007,2026-03-02,paid social,li-retarget,/enterprise
+D-1007,2026-04-08,paid social,li-retarget,/demo
+D-1007,2026-05-14,organic,,/docs
+D-1007,2026-06-01,paid social,li-retarget,/pricing
+D-1009,2026-02-18,cpc,enterprise-2026,/enterprise
+D-1009,2026-03-25,email,enterprise-2026,/webinar/platform
+D-1009,2026-04-14,cpc,enterprise-2026,/demo
+D-1009,2026-05-20,social,,/blog/platform-launch
+D-1009,2026-06-15,cpc,enterprise-2026,/pricing
+D-1010,2026-03-08,offline,q2-event,
+D-1010,2026-04-21,email,q2-event,/event-followup
+D-1011,2026-03-30,cpc,q2-paid,/demo
+D-1011,2026-04-25,cpc,q2-paid,/pricing
+D-1012,2026-04-02,organic,,/blog/getting-started

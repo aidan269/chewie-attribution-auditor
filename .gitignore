@@ -1,0 +1,26 @@
+# Audit outputs — these contain real deal names, amounts, and customer names.
+# Never commit a run against a live portal.
+attribution-audit/
+out/
+*-audit.md
+attribution-corrections.csv
+channel-credit-shift.csv
+attribution-apply-plan.json
+
+# Column mappings and data pulled from a real portal
+mapping.json
+deals.csv
+touches.csv
+
+# ...but the shipped fixture is safe and intentional
+!examples/deals.csv
+!examples/touches.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

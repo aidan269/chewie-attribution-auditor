@@ -1,0 +1,14 @@
+Record ID,Deal Name,Amount in company currency,Close Date,Deal Stage,Original Source,Original Source Drill-Down 1,Latest Source,Campaign Name,Associated Contact ID,Associated Company
+D-1001,Northwind Renewal,"$48,000.00",2026-03-14,closedwon,Direct Traffic,,Organic Search,,C-501,Northwind Traders
+D-1002,Acme Platform Expansion,"$120,000.00",2026-02-20,closedwon,Organic Search,google,Paid Search,brand-2026,C-502,Acme Corp
+D-1003,Globex Seat Expansion,"$75,000.00",2026-04-02,closedwon,Email Marketing,q1-nurture,Paid Search,q1-nurture,C-503,Globex
+D-1004,Initech Pilot,"$22,500.00",2026-01-28,closedwon,Offline Sources,conference,Organic Search,,C-504,Initech
+D-1005,Umbrella Enterprise Rollout,"$310,000.00",2026-05-19,closedwon,Other Campaigns,q1-webinar,Paid Social,q1-webinar,C-505,Umbrella Corp
+D-1005,Umbrella Enterprise Rollout,"$310,000.00",2026-05-19,closedwon,Other Campaigns,abm-tier1,Paid Social,abm-tier1,C-505,Umbrella Corp
+D-1006,Stark Industries Renewal,"$95,000.00",2026-03-30,closedwon,Paid Search,enterprise-2026,Email Marketing,enterprise-2026,C-506,Stark Industries
+D-1007,Wayne Enterprises Net New,"$64,000.00",2026-06-11,closedwon,,,Paid Social,li-retarget,C-507,Wayne Enterprises
+D-1008,Soylent Partner Deal,"$18,000.00",2026-02-05,closedwon,Referrals,partner-intro,Referrals,,C-508,Soylent Industries
+D-1009,Cyberdyne Platform,"$250,000.00",2026-06-28,closedwon,unknown,,Paid Search,enterprise-2026,C-509,Cyberdyne Systems
+D-1010,Tyrell Corp - Event Sourced,"$40,000.00",2026-05-02,closedwon,Other Campaigns,q2-event,Other Campaigns,q2-event,C-510,Tyrell Corp
+D-1011,Tyrell Corp - Paid Sourced,"$40,000.00",2026-05-10,closedwon,Paid Search,q2-paid,Paid Search,q2-paid,C-510,Tyrell Corp
+D-1012,Hooli Starter,"$12,000.00",2026-04-18,closedwon,Social Media,,Organic Search,,C-511,Hooli
