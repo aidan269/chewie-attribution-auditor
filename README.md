@@ -1,7 +1,4 @@
-_____| |__   ___  __ ___ 
- / __| '_ \ / _ \/ \ /\ / / |/ _ \
-| (__| | | |  __/\ V  V /| |  __/
- \___|_| |_|\___| \_/\_/ |_|\___|
+# Meet Chewie... 
 
 A **dry-run-by-default** Claude Code skill that audits deal-to-source revenue
 attribution, reconstructs credit under four different models, and tells you how much
