@@ -51,35 +51,12 @@ DRY RUN — no CRM was contacted and nothing was written to any CRM.
   credit shift      : out/channel-credit-shift.csv
 ```
 
-The credit-shift table is the part that changes minds:
-
-| Channel | Recorded (today) | First touch | Last touch | Linear | Position (U) | Swing vs recorded |
-|---|---|---|---|---|---|---|
-| direct_traffic | $48,000 | $22,500 | $310,000 | $114,583 | $135,250 | -$25,500 … +$262,000 |
-| other_campaigns | $350,000 | $0 | $0 | $0 | $0 | -$350,000 |
-| paid_search | $135,000 | $505,000 | $580,000 | $384,333 | $480,267 | +$249,333 … +$445,000 |
-| unknown | $250,000 | $0 | $0 | $0 | $0 | -$250,000 |
-
-## Install
-
-```bash
-git clone https://github.com/aidan269/hubspot-attribution-auditor \
-    ~/.claude/skills/hubspot-attribution-auditor
-```
-
 ## Trigger phrases
 
 - *"audit attribution"*
 - *"check deal attribution"*
 - *"we have misattributed revenue"*
 - *"which attribution model should we use?"*
-- *"which channel gets credit for this?"*
-- *"build me a revenue attribution report"*
-- *"clean up our attribution"*
-- *"why does paid search look so weak in HubSpot?"*
-- *"is marketing under-credited?"*
 
 Or just describe the problem — "our source data is a mess and I don't trust the numbers"
 routes here fine.
-
-# Dry run is the default, and the scripts can't write anyway
