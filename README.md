@@ -1,4 +1,7 @@
-# hubspot-attribution-auditor
+_____| |__   ___  __ ___ 
+ / __| '_ \ / _ \/ \ /\ / / |/ _ \
+| (__| | | |  __/\ V  V /| |  __/
+ \___|_| |_|\___| \_/\_/ |_|\___|
 
 A **dry-run-by-default** Claude Code skill that audits deal-to-source revenue
 attribution, reconstructs credit under four different models, and tells you how much
@@ -83,9 +86,6 @@ git clone https://github.com/aidan269/hubspot-attribution-auditor \
     ~/.claude/skills/hubspot-attribution-auditor
 ```
 
-Claude Code picks it up on the next session. Python 3.8+, stdlib only — no pip install,
-no pandas.
-
 ## Trigger phrases
 
 - *"audit attribution"*
@@ -100,7 +100,3 @@ no pandas.
 
 Or just describe the problem — "our source data is a mess and I don't trust the numbers"
 routes here fine.
-
-## License
-
-MIT — see `LICENSE`.
