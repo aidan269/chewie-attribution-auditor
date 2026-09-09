@@ -60,22 +60,6 @@ The credit-shift table is the part that changes minds:
 | paid_search | $135,000 | $505,000 | $580,000 | $384,333 | $480,267 | +$249,333 … +$445,000 |
 | unknown | $250,000 | $0 | $0 | $0 | $0 | -$250,000 |
 
-Swing is a **range**, not a point estimate. Read it as:
-
-- **Entirely negative** (`other_campaigns`, `unknown`) — over-credited today under
-  *every* model. The strongest signal in the report.
-- **Entirely positive** (`paid_search`) — under-credited under every model. Here paid
-  search is carrying between $249k and $445k more than it's getting credit for.
-- **Straddling zero** (`direct_traffic`) — the answer depends on which model you pick.
-  That's a business decision about how your funnel works, not a data-quality defect, and
-  no amount of cleanup will resolve it.
-
-*(The fixture is intentionally awful — an 83% flag rate is not what a real portal looks
-like. If a real run flags 80%+, suspect a vocabulary mismatch between your source field
-and your touch data before believing it.)*
-
-## Dry run is the default, and the scripts can't write anyway
-
 ## Install
 
 ```bash
@@ -97,3 +81,5 @@ git clone https://github.com/aidan269/hubspot-attribution-auditor \
 
 Or just describe the problem — "our source data is a mess and I don't trust the numbers"
 routes here fine.
+
+## Dry run is the default, and the scripts can't write anyway
