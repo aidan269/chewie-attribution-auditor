@@ -82,4 +82,4 @@ git clone https://github.com/aidan269/hubspot-attribution-auditor \
 Or just describe the problem — "our source data is a mess and I don't trust the numbers"
 routes here fine.
 
-## Dry run is the default, and the scripts can't write anyway
+# Dry run is the default, and the scripts can't write anyway
