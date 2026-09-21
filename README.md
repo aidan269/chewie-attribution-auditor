@@ -58,5 +58,5 @@ DRY RUN — no CRM was contacted and nothing was written to any CRM.
 - *"we have misattributed revenue"*
 - *"which attribution model should we use?"*
 
-Or just describe the problem — "our source data is a mess and I don't trust the numbers"
+Or just describe the problem such as "our source data is a mess and I don't trust the numbers"
 routes here fine.
