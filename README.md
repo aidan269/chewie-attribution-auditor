@@ -50,13 +50,3 @@ DRY RUN — no CRM was contacted and nothing was written to any CRM.
   corrections ( 10) : out/attribution-corrections.csv
   credit shift      : out/channel-credit-shift.csv
 ```
-
-## Trigger phrases
-
-- *"audit attribution"*
-- *"check deal attribution"*
-- *"we have misattributed revenue"*
-- *"which attribution model should we use?"*
-
-Or just describe the problem such as "our source data is a mess and I don't trust the numbers"
-routes here fine.
